@@ -1,0 +1,19 @@
+{
+    "name": "SAMURAI_X_SWORD_FACE_CARD",
+    "symbol": "",
+    "image": "6.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "6.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BSSasFETkvxhjidzQZ3FEbwoFDUuYi8MiHM6KDo6b1Xx",
+          "share": 100
+        }
+      ]
+    }
+  }

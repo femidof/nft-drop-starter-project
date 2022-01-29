@@ -1,0 +1,19 @@
+{
+    "name": "SAMURAI_X_WITH_SPIRIT",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BSSasFETkvxhjidzQZ3FEbwoFDUuYi8MiHM6KDo6b1Xx",
+          "share": 100
+        }
+      ]
+    }
+  }

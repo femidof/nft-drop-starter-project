@@ -1,0 +1,19 @@
+{
+    "name": "SAMURAI_X_AND_KAORU",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BSSasFETkvxhjidzQZ3FEbwoFDUuYi8MiHM6KDo6b1Xx",
+          "share": 100
+        }
+      ]
+    }
+  }
